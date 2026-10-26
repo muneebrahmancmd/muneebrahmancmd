@@ -17,14 +17,12 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 **CS Student** from Larkana, Pakistan — building in public, every day
+- 🎓 **CS Student** from Pakistan — building in public, every day
 - 💻 I build **interactive portfolios, AI web apps & creative tools**
 - 🤖 Obsessed with **AI-generated video, image generation & smart web experiences**
 - 🎨 Also a **graphic designer & photo editor** — design first, code second, magic always
 - 🌱 Currently levelling up in **advanced JavaScript, TypeScript & AI integrations**
-- ⚡ Fun fact: I turned my own GitHub portfolio into a whole interactive experience — check it below 👇
-
----
+- 
 
 ## 🛠️ Tech Stack & Tools
 
